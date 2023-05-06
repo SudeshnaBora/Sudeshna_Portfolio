@@ -301,6 +301,8 @@ node_modules/
 *.dsw
 *.dsp
 
+.node_modules/
+
 # Visual Studio 6 technical files
 *.ncb
 *.aps
